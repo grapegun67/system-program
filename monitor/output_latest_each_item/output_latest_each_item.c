@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <dirent.h>
 
-#define FILEPATH        "/home/roo/system-program/monitor/test"
+#define FILEPATH        "/home"
 
 /*
  * void parsing(int ii, char **tmp_name, struct dirent **namelist)
