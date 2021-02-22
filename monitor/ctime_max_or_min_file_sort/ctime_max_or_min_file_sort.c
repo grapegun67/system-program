@@ -7,7 +7,7 @@
 #include <sys/stat.h>
 #include <time.h>
 
-#define FILEPATH        "/home/roo/system-program/monitor/test"
+#define FILEPATH        "/home"
 #define MAX_INT         2147000000
 
 struct tmp_ctime_file{
