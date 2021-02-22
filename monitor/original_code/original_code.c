@@ -7,7 +7,7 @@
 #include <sys/stat.h>
 #include <time.h>
 
-#define FILEPATH        "/home/roo/system-program/monitor/test"
+#define FILEPATH        "/home"
 
 int main()
 {
